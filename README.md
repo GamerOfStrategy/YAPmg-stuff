@@ -6,7 +6,7 @@ We have the embeds for everything, ranging from government makeup to election re
 ### Seats over time
 <div class="flourish-embed flourish-chart" data-src="visualisation/10079126"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 ### 3
-<div class="flourish-embed flourish-election" data-src="visualisation/10097754"><script src="https://public.flourish.studio/resources/embed.js%22%3E"></script></div>
+<div class="flourish-embed flourish-election" data-src="visualisation/10097754"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 ## Have an Issue?
 Contact GamerofStrategy#0402
 
